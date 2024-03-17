@@ -1,0 +1,15 @@
+.errorr{
+    color: red;
+    background-color: aqua;
+    margin-right: 10px;
+}
+
+.warning{
+    color: rgb(56, 5, 243);
+}
+.para{
+    color: blue;
+    background-color: rgb(234, 243, 150);
+    margin-right: 5px;
+    margin-left: 5px;
+}
